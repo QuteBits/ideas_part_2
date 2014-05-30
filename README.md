@@ -57,4 +57,4 @@ Imagine some very simple [Top-Down 2D Multiplayer shooter](https://www.youtube.c
 
 ## 14. Recognize Similar Fonts
 
-Ever wanted to copy that awesome font the ad you've seen last night? Why not create a [Shazam](www.shazam.com) for fonts?
+Ever wanted to copy that awesome font the ad you've seen last night? Why not create a [Shazam](https://www.shazam.com) for fonts?
